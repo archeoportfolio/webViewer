@@ -1,0 +1,13 @@
+<!DOCTYPE WebMultiRes>
+<MultiRes format="0">
+<Content type="HSH_RTI">
+<Size width="2500" coefficients="9" height="1406"/>
+<Scale>-0.0869332 -0.386631 -0.0720663 -0.276449 -0.229649 -0.180212 -0.383778 -0.357543 -0.139478 </Scale>
+<Bias>0.656899 0.663411 1.02805 0.672156 0.472071 0.559184 0.510608 0.455114 0.445493 </Bias>
+</Content>
+<Tree>341 0
+256
+4096 4096 255
+0 0 0
+</Tree>
+</MultiRes>
